@@ -14,7 +14,7 @@ body {
 /* Nav Menu */
 
 .nav {
-    background-color: #F9FAFC;
+    background-color: #F9FAFC; 
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -243,6 +243,7 @@ body {
 .product_img {
     width: 250px;
     height: 250px;
+    filter:drop-shadow(4px 6px 12px #434343)
 }
 
 .product_card_name {
@@ -360,6 +361,7 @@ button:hover {
     width: 85%;
     height: 60%;
     margin-left: 30px;
+    filter: drop-shadow(4px 6px 12px #434343)
 }
 
 .modal_text {
