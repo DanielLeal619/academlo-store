@@ -242,8 +242,7 @@ body {
 
 .product_img {
     width: 250px;
-    height: 250px;
-    filter:drop-shadow(4px 6px 12px #434343)
+    height: 250px;    
 }
 
 .product_card_name {
